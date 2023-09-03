@@ -1,5 +1,4 @@
-# TUGAS INDIVIDU 4
-
+# Simple Scanner
 - Nama Aplikasi : <b>Simple Scanner</b>
 
 - Deskripsi Aplikasi : 
